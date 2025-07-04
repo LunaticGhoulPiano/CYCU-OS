@@ -1,0 +1,4 @@
+// WSL: UBUNTU-22.04
+// c_cpp_properties.json
+// "cl.exe" -> "/usr/bin/gcc"
+// "windows-msvc-x64" -> "linux-gcc-x64"
